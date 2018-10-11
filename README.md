@@ -1,2 +1,2 @@
 # LeafLet-Web-Mapping
-Using Plotly to map web data.
+Using LeafLet to map web data.
